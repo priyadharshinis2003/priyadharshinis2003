@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about web development and love work
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/)
+- [LinkedIn](https://www.linkedin.com/in/priyadharshini-s)
 
 Feel free to check out my repositories and leave a star if you find something interesting. I'm always open to feedback and collaboration opportunities!
 
