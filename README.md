@@ -1,10 +1,9 @@
 # Hi there, I'm Priyadharshini👋
 
-Welcome to my GitHub profile! I'm passionate about web development and love working with technologies like HTML, CSS, JavaScript, and React to create responsive and dynamic web applications.
+Welcome to my GitHub profile! I'm passionate about web development and love working with technologies like HTML, CSS, JavaScript, and SQL to create responsive and dynamic web applications.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently enhancing my skills in advanced React and exploring backend technologies.
 - 💻 I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 - 🎯 My goal is to contribute to open-source projects and collaborate with other developers.
 
