@@ -19,10 +19,10 @@ Welcome to my GitHub profile! I'm passionate about web development and love work
 
 ## 📊 GitHub Profile  
 ### 🔥 GitHub Stats  
-![Hari Jothivenkatraman's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyadharshinis2003&show_icons=true&theme=radical)  
+![Priyadharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyadharshinis2003&show_icons=true&theme=radical)  
 
 ### 📈 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=priyadharshinis2003&theme=radical) 
+![GitHub Streak](https://streak-stats.demolab.com/?user=priyadharshinis2003&theme=radical) 
 
 ### 🏆 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshinis2003&layout=compact&theme=radical)  
